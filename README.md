@@ -30,4 +30,7 @@ License plate recognition
             虽然ocr简便一些，不过你如果切割的不太好，就要慎用了。  
  ### 识别一些结果图：
  
- ![](/images/01.png)                    ![](/images/02.png)                     ![](/images/03.png)                  ![](/images/04.png) 
+ ![第一张图：](/images/01.png)
+ ![第二张图：](/images/02.png)
+ ![第三张图：](/images/03.png)
+ ![第四张图：](/images/04.png) 
