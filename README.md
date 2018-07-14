@@ -34,4 +34,4 @@ License plate recognition
  ![第一张图：](/images/01.png)
  ![第二张图：](/images/02.png)
  ![第三张图：](/images/03.png)
- ![第四张图：](/images/04.png) 
+
