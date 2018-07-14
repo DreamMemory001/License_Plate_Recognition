@@ -25,12 +25,8 @@ License plate recognition
 + 3.> 如果上一步切割比较完美的话识别也是比较容易的。通过和标准模板库里边的照片进行对比，得到汉字
          或者也可以直接使用ocr算法：
          
-         （语法：txt = ocr(I);
-            txt = ocr(I,roi); 
-            [_] = ocr(_,Name,Value);）
-            
-            
-            
+         （语法：txt = ocr(I);        txt = ocr(I,roi);         [_] = ocr(_,Name,Value);
+        
             [其中，I为图像；roi为感兴趣的区域；Name为用一对单引号包含的字符串，Value为对应Name的值。
             虽然ocr简便一些，不过你如果切割的不太好，就要慎用了。]
             
