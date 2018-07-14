@@ -28,4 +28,6 @@ License plate recognition
             [_] = ocr(_,Name,Value); 
             其中，I为图像；roi为感兴趣的区域；Name为用一对单引号包含的字符串，Value为对应Name的值。
             虽然ocr简便一些，不过你如果切割的不太好，就要慎用了。  
-     
+ ### 识别一些结果图：
+ 
+ ![](/images/01.png)                    ![](/images/02.png)                     ![](/images/03.png)                  ![](/images/04.png) 
