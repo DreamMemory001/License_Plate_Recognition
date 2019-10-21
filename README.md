@@ -32,7 +32,6 @@ License plate recognition
             
  ### 识别一些结果图：
  
- 
  ![第一张图：](/images/01.png)
  ![第二张图：](/images/02.png)
  ![第三张图：](/images/03.png)
